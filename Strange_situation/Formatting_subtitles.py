@@ -11,29 +11,7 @@
 #
 # In the new formatting we use "{}" insted %. We can put "{}" alone or with type inside like "{:f}, {:s} etc.
 #
-# Type of subtitles:
-# s - string - inscription
-# d - digit  - natural number
-# f - float  - floating point number
-#
-# We have some few way to formating floating record:
-# %f. ; {:f} ; round(x,y) - when x is argument and y is number of digits after the decimal point
-# for example (for x=2/3):
-x=4.0/3.0
-print(x)
-print("x is: %f." % (x))
-print("x is {:f}" .format(x) )
-print("x is", round(x,6))
-
-# The first two options to formating records are formating strings - with this options you can formating every number or strings. It is something like translate digit format to string format.
-# The last option to formating records is reseve to work only with numbers.
-#
-# When we don't using the formating records for numbers like "float" then in original Python take this numbers and formating this in "double".
-# Double have 15 numbersof digits after the decimal point. Float have 6.
-#
-# String Formating 
-#
-# String Formatting 
+# To nie może się tutaj znaleźć
 #
 # Formatting Strings/ subtitles/ sequence sign is mean put content to inside subtitle which we are presenting like list of argument.
 # There Are two ways to write commend: Old (Python 2.0) and New (Python 3.0). Python 2.0 was the old version of programming language and it was obsolete but often used by old company. In oposite, new companies use new version of python.
