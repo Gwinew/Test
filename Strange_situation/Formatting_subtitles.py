@@ -110,4 +110,5 @@ print("{} have {}".format("Alice","cat"))
 print("{1} have {0}".format("Alice","cat"))
 #
 #I to też
+# Elements are numbering from "0", that's why Alice is on position "0" and cat on "1".
 
