@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # -*- coding: utf-8 -*-
 
 #Formating Subtitles
@@ -165,4 +164,3 @@ print("The world record for 100 meters was {} and {} set it" .format(9.58,'Usain
 print("The world record for 100 meters was %.2f and %s set it" %(9.5877,'Usain Bolt'))
 #New float number with limiting modifier example
 print("The world record for 100 meters was {:.2f} and {} set it" .format(9.5877,'Usain Bolt'))
->>>>>>> Stashed changes
