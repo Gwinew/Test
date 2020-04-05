@@ -1,0 +1,4 @@
+python -m pip install cx_Freeze --upgrade
+
+i w pliku docelowym wpisaæ:
+python system.py build
